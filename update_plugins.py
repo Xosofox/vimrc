@@ -39,9 +39,9 @@ syntastic https://github.com/scrooloose/syntastic
 vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
 vim-go https://github.com/fatih/vim-go
-vim-jsbeautify https://github.com/maksimr/vim-jsbeautify.git
-tern_for_vim https://github.com/marijnh/tern_for_vim.git
-tagbar https://github.com/majutsushi/tagbar.git
+vim-jsbeautify https://github.com/maksimr/vim-jsbeautify
+tern_for_vim https://github.com/marijnh/tern_for_vim
+tagbar https://github.com/majutsushi/tagbar
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
