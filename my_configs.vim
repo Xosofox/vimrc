@@ -5,6 +5,8 @@ let mapleader=","
 
 set pastetoggle=<F2>
 
+nnoremap <F3> :set hlsearch!<CR>
+
 
 autocmd FileType javascript noremap <buffer>  <F4> :call JsBeautify()<cr>
 autocmd FileType html noremap <buffer> <F4> :call HtmlBeautify()<cr>
